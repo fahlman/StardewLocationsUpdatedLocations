@@ -1,7 +1,7 @@
 {
   "Farm": "{{farm_name}} Farm",
   "FarmHouse": "{{player_name}}'s House",
-  "Cabin": "{{cabin_owner}}'s Cabin", 
+  "Cabin": "{{cabin_owner}}'s Cabin",
   "Forest": "Cindersap Forest",
   "Woods": "Secret Woods",
   "AnimalShop": "Marnie's Ranch",
@@ -294,5 +294,9 @@
   "OliviaCellar": "Olivia’s Cellar",
   "TownEast": "Town East",
   "ShearwaterBridge": "Shearwater Bridge",
-  "AndyHouse": "Andy's House"
+  "AndyHouse": "Andy's House",
+  "BlueMoonVineyard": "Blue Moon Vineyard",
+  "SophiaHouse": "Sophia's House",
+  "AuroraVineyard": "Aurora Vineyard",
+  "ForestWest": "Forest West"
 }
